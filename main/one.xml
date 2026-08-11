@@ -1,1 +1,127 @@
 
+# Обновлено: 2026-08-11 (11:40)
+
+<channel id="one">
+  <display-name>one</display-name>
+</channel>
+
+<programme start="20260811060000 +0300" stop="20260811073000 +0300" channel="one">
+  <title>Покемон 6№9-12</title>
+</programme>
+<programme start="20260811073000 +0300" stop="20260811075500 +0300" channel="one">
+  <title>Пираты чёрной лагуны 2№10</title>
+</programme>
+<programme start="20260811075500 +0300" stop="20260811084000 +0300" channel="one">
+  <title>Черепашки мутанты-ниндзя 5№9-10</title>
+</programme>
+<programme start="20260811084000 +0300" stop="20260811093000 +0300" channel="one">
+  <title>Царь горы 12№10, 12</title>
+</programme>
+<programme start="20260811093000 +0300" stop="20260811095000 +0300" channel="one">
+  <title>Покемон 6№13</title>
+</programme>
+<programme start="20260811095000 +0300" stop="20260811101500 +0300" channel="one">
+  <title>м/с Кунг-фу Панда 3№16</title>
+</programme>
+<programme start="20260811101500 +0300" stop="20260811103500 +0300" channel="one">
+  <title>Симпсоны 8№24</title>
+</programme>
+<programme start="20260811103500 +0300" stop="20260811110000 +0300" channel="one">
+  <title>Офис 5№28</title>
+</programme>
+<programme start="20260811110000 +0300" stop="20260811112500 +0300" channel="one">
+  <title>Удивительный мир Гамбола 6№39-40</title>
+</programme>
+<programme start="20260811112500 +0300" stop="20260811121500 +0300" channel="one">
+  <title>Блич 2№39-40</title>
+</programme>
+<programme start="20260811121500 +0300" stop="20260811123500 +0300" channel="one">
+  <title>ПРЕМЬЕРА: Доктор ПСИ 1№1</title>
+</programme>
+<programme start="20260811123500 +0300" stop="20260811125500 +0300" channel="one">
+  <title>ПРЕМЬЕРА: Сделано в Японии. Нереалити шоу №1</title>
+</programme>
+<programme start="20260811125500 +0300" stop="20260811133000 +0300" channel="one">
+  <title>Крутые бобры 1№1-3</title>
+</programme>
+<programme start="20260811133000 +0300" stop="20260811135500 +0300" channel="one">
+  <title>Покемон 6№14</title>
+</programme>
+<programme start="20260811135500 +0300" stop="20260811142000 +0300" channel="one">
+  <title>Американский папаша 10№11</title>
+</programme>
+<programme start="20260811142000 +0300" stop="20260811144500 +0300" channel="one">
+  <title>Покемон 6№15</title>
+</programme>
+<programme start="20260811144500 +0300" stop="20260811151000 +0300" channel="one">
+  <title>Симпсоны 8№25</title>
+</programme>
+<programme start="20260811151000 +0300" stop="20260811161000 +0300" channel="one">
+  <title>Дневное-супер-тейковер-пати-лайв-шоу Pain</title>
+</programme>
+<programme start="20260811161000 +0300" stop="20260811163500 +0300" channel="one">
+  <title>Гриффины 15№12</title>
+</programme>
+<programme start="20260811163500 +0300" stop="20260811170000 +0300" channel="one">
+  <title>Футурама 1№11</title>
+</programme>
+<programme start="20260811170000 +0300" stop="20260811172000 +0300" channel="one">
+  <title>Охотники на драконов 1№14</title>
+</programme>
+<programme start="20260811172000 +0300" stop="20260811174500 +0300" channel="one">
+  <title>Симпсоны 9№1</title>
+</programme>
+<programme start="20260811174500 +0300" stop="20260811184000 +0300" channel="one">
+  <title>м/с Волк №45-52</title>
+</programme>
+<programme start="20260811184000 +0300" stop="20260811190500 +0300" channel="one">
+  <title>Гриффины 15№13</title>
+</programme>
+<programme start="20260811190500 +0300" stop="20260811201500 +0300" channel="one">
+  <title>Симпсоны 9№2-4</title>
+</programme>
+<programme start="20260811201500 +0300" stop="20260811203500 +0300" channel="one">
+  <title>Гриффины 15№14</title>
+</programme>
+<programme start="20260811203500 +0300" stop="20260811210000 +0300" channel="one">
+  <title>Американский папаша 10№12</title>
+</programme>
+<programme start="20260811210000 +0300" stop="20260811212000 +0300" channel="one">
+  <title>Гриффины 15№15</title>
+</programme>
+<programme start="20260811212000 +0300" stop="20260811214500 +0300" channel="one">
+  <title>Американский папаша 10№13</title>
+</programme>
+<programme start="20260811214500 +0300" stop="20260811220500 +0300" channel="one">
+  <title>Симпсоны 9№5</title>
+</programme>
+<programme start="20260811220500 +0300" stop="20260811225500 +0300" channel="one">
+  <title>Гриффины 15№16-17</title>
+</programme>
+<programme start="20260811225500 +0300" stop="20260811232000 +0300" channel="one">
+  <title>Подозрительная Сова 8№15</title>
+</programme>
+<programme start="20260811232000 +0300" stop="20260811234500 +0300" channel="one">
+  <title>Бессмертное кино 6№19</title>
+</programme>
+<programme start="20260811234500 +0300" stop="20260812001500 +0300" channel="one">
+  <title>Блудливая Калифорния 2№5</title>
+</programme>
+<programme start="20260812001500 +0300" stop="20260812012500 +0300" channel="one">
+  <title>Мультреалити 3№12-14</title>
+</programme>
+<programme start="20260812012500 +0300" stop="20260812030000 +0300" channel="one">
+  <title>Арчер 1№1-5</title>
+</programme>
+<programme start="20260812030000 +0300" stop="20260812040500 +0300" channel="one">
+  <title>Южный парк 8№11-12</title>
+</programme>
+<programme start="20260812040500 +0300" stop="20260812043000 +0300" channel="one">
+  <title>Атака титанов 4№23</title>
+</programme>
+<programme start="20260812043000 +0300" stop="20260812045000 +0300" channel="one">
+  <title>Наруто №42</title>
+</programme>
+<programme start="20260812045000 +0300" stop="20260812050000 +0300" channel="one">
+  <title>Царь горы 12№13-15</title>
+</programme>
