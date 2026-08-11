@@ -16,7 +16,7 @@
 
 | Название | Источник | EPG |
 | :--- | :--- | :--- |
-| **ONE** | [https://t.me/oneitv](https://t.me/oneitv) | [https://oneitv.site/epg.xml](https://oneitv.site/epg.xml) |
+| **ONE** | [https://t.me/oneitv](https://t.me/oneitv) | [https://raw.githubusercontent.com/bombalayf/kinostream_epg/refs/heads/main/main/one.xml](https://raw.githubusercontent.com/bombalayf/kinostream_epg/refs/heads/main/main/one.xml) |
 
 ## 🚀 Как использовать
 
